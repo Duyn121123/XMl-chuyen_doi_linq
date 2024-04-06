@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Brands>
+  <Brand>
+    <ID>1</ID>
+    <Name>Toyota</Name>
+  </Brand>
+  <Brand>
+    <ID>2</ID>
+    <Name>Ford</Name>
+  </Brand>
+  <Brand>
+    <ID>3</ID>
+    <Name>D</Name>
+  </Brand>
+  <Brand>
+    <ID>4</ID>
+    <Name>K</Name>
+  </Brand>
+</Brands>
